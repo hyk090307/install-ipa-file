@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://mail.qq.com/cgi-bin/download?mailid=ZL2417-Y_zMS8W6q0lS3ngZCtUkSb8&filename=1a0140e9b7247108dffabb02d33329e7.ipa&sid=ozwzCIb3Q6G68FY3</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string> https://mail.qq.com/cgi-bin/viewfile?f=D7ED8CED5A22955EE7759E866F2BF949C920A8F6EFAD61680A0CE5E4C7BDEC5F4A0C72900CC6ECD2B8DA5A19D41B6D4DCB70E97A16E2BAA21D1538CC937E30119A0CACBB742001E9BA1F854B0978C6AC870ACB6B54AB63F5B75497A02B6D4EC3&mailid=ZL2317-9WrtYuyTM9HK_Vs6Krb4Hb8&sid=ozwzCIb3Q6G68FY3&net=889192575</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string> https://mail.qq.com/cgi-bin/viewfile?f=D7ED8CED5A22955EE7759E866F2BF949C920A8F6EFAD61680A0CE5E4C7BDEC5F4A0C72900CC6ECD2B8DA5A19D41B6D4DCB70E97A16E2BAA21D1538CC937E30119A0CACBB742001E9BA1F854B0978C6AC870ACB6B54AB63F5B75497A02B6D4EC3&mailid=ZL2317-9WrtYuyTM9HK_Vs6Krb4Hb8&sid=ozwzCIb3Q6G68FY3&net=889192575</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.i4.tools</string>
+				<key>bundle-version</key>
+				<string>0.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>爱思助手</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
